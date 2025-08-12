@@ -1,4 +1,4 @@
-# Contributing to Beatchain
+# Contributing to BeatChain
 
 Thank you for considering contributing to BeatChain! Please follow the guidelines below to ensure smooth collaboration.
 
