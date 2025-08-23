@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Web3](https://img.shields.io/badge/Web3-F16822?logo=web3.js&logoColor=white)](https://web3js.org/)
 
 BeatChain is a revolutionary decentralized platform that democratizes music creation by combining cutting-edge AI technology with blockchain innovation. Create unique musical compositions using advanced AI models and mint them as NFTs for true ownership and trading.
